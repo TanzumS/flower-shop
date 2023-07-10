@@ -231,7 +231,7 @@ padding: 22px 513px 22px 23px;
 }
 .rate{
     color: #272727;
-    text-align: center;
+    text-align: right;
     font-family: Lato;
     padding: 20px 300px;
 }
@@ -248,4 +248,7 @@ font-family: Lato;
 font-size: 16px;
 font-weight: 400;
 padding-top: 40px;
+}
+.bi{
+    border-radius: 10px;
 }
