@@ -216,3 +216,36 @@ footer{
 .h1{
     padding: 128px 832px 10px 832px;
 }
+::placeholder{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+padding: 22px 513px 22px 23px;
+}
+.go{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+}
+.rate{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    padding: 20px 300px;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px;
+}
+.foo{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+padding-top: 40px;
+}
